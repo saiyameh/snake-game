@@ -8,4 +8,4 @@ CC0 1.0 Universal
 
 ## Other Projects
 - [Music Player](https://github.com/saiyameh/music-player.git)
-- [Corona tracker](https://github.com/saiyameh/corona.git)
+- [Covid tracker](https://github.com/saiyameh/corona.git)
